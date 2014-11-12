@@ -1,0 +1,8 @@
+bulk_velocity
+center_of_mass
+maximum_density_location
+maximum_radius
+particle_size
+total_mass
+virial_mass
+virial_radius

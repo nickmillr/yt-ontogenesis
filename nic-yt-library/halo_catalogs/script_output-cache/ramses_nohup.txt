@@ -1,0 +1,773 @@
+Ramses output in Nohup:
+yt : [WARNING  ] 2014-07-14 10:57:45,742 RAMSES frontend assumes all simulations are cosmological!
+yt : [INFO     ] 2014-07-14 10:57:45,778 Parameters: current_time              = -4.35869213191e+16
+yt : [INFO     ] 2014-07-14 10:57:45,778 Parameters: domain_dimensions         = [128 128 128]
+yt : [INFO     ] 2014-07-14 10:57:45,779 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-14 10:57:45,779 Parameters: domain_right_edge         = [ 1.  1.  1.]
+yt : [INFO     ] 2014-07-14 10:57:45,780 Parameters: cosmological_simulation   = 1
+yt : [INFO     ] 2014-07-14 10:57:45,780 Parameters: current_redshift          = 6.99999024423
+yt : [INFO     ] 2014-07-14 10:57:45,780 Parameters: omega_lambda              = 0.721000015736
+yt : [INFO     ] 2014-07-14 10:57:45,780 Parameters: omega_matter              = 0.279000014067
+yt : [INFO     ] 2014-07-14 10:57:45,780 Parameters: hubble_constant           = 0.7
+yt : [INFO     ] 2014-07-14 11:01:31,011 Loading field plugins.
+yt : [INFO     ] 2014-07-14 11:01:31,011 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-14 11:01:31,012 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-14 11:01:31,012 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-14 11:01:31,012 Loaded fluid (54 new fields)
+yt : [INFO     ] 2014-07-14 11:01:31,013 Loaded fluid_vector (86 new fields)
+yt : [INFO     ] 2014-07-14 11:01:31,014 Loaded geometric (101 new fields)
+yt : [INFO     ] 2014-07-14 11:01:31,014 Loaded halo_analysis (102 new fields)
+yt : [INFO     ] 2014-07-14 11:01:31,014 Loaded local (102 new fields)
+yt : [INFO     ] 2014-07-14 11:01:31,015 Loaded magnetic_field (108 new fields)
+yt : [INFO     ] 2014-07-14 11:01:31,015 Loaded species (108 new fields)
+yt : [WARNING  ] 2014-07-14 11:01:31,646 No particle_type, no creation_time, so not distinguishing.
+yt : [INFO     ] 2014-07-14 11:01:45,401 Initializing HOP
+yt : [WARNING  ] 2014-07-14 11:01:45,402 No particle_type, no creation_time, so not distinguishing.
+Calling hop... 63427416 1.600e+02
+nSmooth = 65 kd->nActive = 63427416
+[?1034hCopying arrays for 63427416 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 150959
+yt : [INFO     ] 2014-07-14 11:23:09,679 Parsing outputs
+yt : [INFO     ] 2014-07-14 11:58:35,302 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-14 11:58:35,302 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-14 11:58:35,303 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-14 11:58:35,304 Parameters: domain_right_edge         = [  1.37500172e+25   1.37500172e+25   1.37500172e+25]
+yt : [INFO     ] 2014-07-14 11:58:35,304 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-14 11:58:35,306 Allocating for 9.149e+03 particles
+yt : [INFO     ] 2014-07-14 11:58:35,311 Identified 7.930e+02 octs
+yt : [INFO     ] 2014-07-14 11:58:35,454 Loading field plugins.
+yt : [INFO     ] 2014-07-14 11:58:35,454 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-14 11:58:35,454 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-14 11:58:35,454 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-14 11:58:35,455 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-14 11:58:35,456 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-14 11:58:35,456 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-14 11:58:35,456 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-14 11:58:35,456 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-14 11:58:35,456 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-14 11:58:35,457 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-14 11:58:35,622 Loading field plugins.
+yt : [INFO     ] 2014-07-14 11:58:35,622 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-14 11:58:35,623 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-14 11:58:35,623 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-14 11:58:35,623 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-14 11:58:35,624 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-14 11:58:35,624 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-14 11:58:35,624 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-14 11:58:35,625 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-14 11:58:35,625 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-14 11:58:35,625 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-14 11:59:23,721 Saving halo catalog (9149 halos) to halo_catalogs/catalog/ramses/redshift7.98/redshift7.98.
+yt : [WARNING  ] 2014-07-14 11:59:23,824 No particle_type, no creation_time, so not distinguishing.
+yt : [INFO     ] 2014-07-14 11:59:34,839 Initializing HOP
+yt : [WARNING  ] 2014-07-14 11:59:34,840 No particle_type, no creation_time, so not distinguishing.
+Calling hop... 63427416 1.600e+02
+nSmooth = 65 kd->nActive = 63427416
+Your catalog has been created athalo_catalogs/catalog/ramses/redshift7.98
+redshift catalog 7.98 completed
+Copying arrays for 63427416 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 150959
+yt : [INFO     ] 2014-07-14 12:20:55,244 Parsing outputs
+yt : [INFO     ] 2014-07-14 12:56:01,210 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-14 12:56:01,210 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-14 12:56:01,211 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-14 12:56:01,211 Parameters: domain_right_edge         = [  1.37500172e+25   1.37500172e+25   1.37500172e+25]
+yt : [INFO     ] 2014-07-14 12:56:01,212 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-14 12:56:01,213 Allocating for 9.149e+03 particles
+yt : [INFO     ] 2014-07-14 12:56:01,216 Identified 7.930e+02 octs
+yt : [INFO     ] 2014-07-14 12:56:01,338 Loading field plugins.
+yt : [INFO     ] 2014-07-14 12:56:01,338 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-14 12:56:01,338 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-14 12:56:01,338 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-14 12:56:01,339 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-14 12:56:01,340 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-14 12:56:01,340 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-14 12:56:01,340 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-14 12:56:01,340 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-14 12:56:01,340 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-14 12:56:01,340 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-14 12:56:01,501 Loading field plugins.
+yt : [INFO     ] 2014-07-14 12:56:01,501 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-14 12:56:01,501 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-14 12:56:01,501 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-14 12:56:01,502 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-14 12:56:01,503 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-14 12:56:01,503 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-14 12:56:01,503 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-14 12:56:01,503 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-14 12:56:01,503 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-14 12:56:01,504 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-14 12:56:48,843 Saving halo catalog (9149 halos) to halo_catalogs/catalog/ramses/redshift7.0/redshift7.0.
+yt : [WARNING  ] 2014-07-14 12:56:49,057 RAMSES frontend assumes all simulations are cosmological!
+yt : [INFO     ] 2014-07-14 12:56:49,073 Parameters: current_time              = -5.93867033751e+16
+yt : [INFO     ] 2014-07-14 12:56:49,073 Parameters: domain_dimensions         = [128 128 128]
+yt : [INFO     ] 2014-07-14 12:56:49,073 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-14 12:56:49,074 Parameters: domain_right_edge         = [ 1.  1.  1.]
+yt : [INFO     ] 2014-07-14 12:56:49,074 Parameters: cosmological_simulation   = 1
+yt : [INFO     ] 2014-07-14 12:56:49,074 Parameters: current_redshift          = 5.06016063025
+yt : [INFO     ] 2014-07-14 12:56:49,074 Parameters: omega_lambda              = 0.721000015736
+yt : [INFO     ] 2014-07-14 12:56:49,074 Parameters: omega_matter              = 0.279000014067
+yt : [INFO     ] 2014-07-14 12:56:49,074 Parameters: hubble_constant           = 0.7
+yt : [INFO     ] 2014-07-14 13:01:28,959 Loading field plugins.
+yt : [INFO     ] 2014-07-14 13:01:28,960 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-14 13:01:28,960 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-14 13:01:28,960 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-14 13:01:28,960 Loaded fluid (54 new fields)
+yt : [INFO     ] 2014-07-14 13:01:28,961 Loaded fluid_vector (86 new fields)
+yt : [INFO     ] 2014-07-14 13:01:28,961 Loaded geometric (101 new fields)
+yt : [INFO     ] 2014-07-14 13:01:28,962 Loaded halo_analysis (102 new fields)
+yt : [INFO     ] 2014-07-14 13:01:28,962 Loaded local (102 new fields)
+yt : [INFO     ] 2014-07-14 13:01:28,962 Loaded magnetic_field (108 new fields)
+yt : [INFO     ] 2014-07-14 13:01:28,962 Loaded species (108 new fields)
+yt : [WARNING  ] 2014-07-14 13:01:29,719 No particle_type, no creation_time, so not distinguishing.
+yt : [INFO     ] 2014-07-14 13:01:57,576 Initializing HOP
+yt : [WARNING  ] 2014-07-14 13:01:57,577 No particle_type, no creation_time, so not distinguishing.
+Calling hop... 64011307 1.600e+02
+nSmooth = 65 kd->nActive = 64011307
+Your catalog has been created athalo_catalogs/catalog/ramses/redshift7.0
+redshift catalog 7.0 completed
+Copying arrays for 64011307 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 165600
+yt : [INFO     ] 2014-07-14 13:23:59,050 Parsing outputs
+yt : [INFO     ] 2014-07-14 14:17:39,447 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-14 14:17:39,447 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-14 14:17:39,449 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-14 14:17:39,450 Parameters: domain_right_edge         = [  1.81513346e+25   1.81513346e+25   1.81513346e+25]
+yt : [INFO     ] 2014-07-14 14:17:39,451 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-14 14:17:39,453 Allocating for 1.236e+04 particles
+yt : [INFO     ] 2014-07-14 14:17:39,459 Identified 9.930e+02 octs
+yt : [INFO     ] 2014-07-14 14:17:39,584 Loading field plugins.
+yt : [INFO     ] 2014-07-14 14:17:39,585 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-14 14:17:39,586 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-14 14:17:39,586 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-14 14:17:39,587 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-14 14:17:39,587 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-14 14:17:39,587 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-14 14:17:39,588 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-14 14:17:39,588 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-14 14:17:39,588 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-14 14:17:39,588 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-14 14:17:39,751 Loading field plugins.
+yt : [INFO     ] 2014-07-14 14:17:39,751 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-14 14:17:39,752 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-14 14:17:39,752 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-14 14:17:39,752 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-14 14:17:39,753 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-14 14:17:39,753 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-14 14:17:39,753 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-14 14:17:39,754 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-14 14:17:39,754 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-14 14:17:39,754 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-14 14:18:44,257 Saving halo catalog (12365 halos) to halo_catalogs/catalog/ramses/redshift5.9/redshift5.9.
+yt : [WARNING  ] 2014-07-14 14:18:44,386 No particle_type, no creation_time, so not distinguishing.
+yt : [INFO     ] 2014-07-14 14:18:55,869 Initializing HOP
+yt : [WARNING  ] 2014-07-14 14:18:55,869 No particle_type, no creation_time, so not distinguishing.
+Calling hop... 64011307 1.600e+02
+nSmooth = 65 kd->nActive = 64011307
+Your catalog has been created athalo_catalogs/catalog/ramses/redshift5.9
+redshift catalog 5.9 completed
+Copying arrays for 64011307 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 165600
+yt : [INFO     ] 2014-07-14 14:40:42,647 Parsing outputs
+yt : [INFO     ] 2014-07-14 15:34:25,898 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-14 15:34:25,904 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-14 15:34:25,905 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-14 15:34:25,906 Parameters: domain_right_edge         = [  1.81513346e+25   1.81513346e+25   1.81513346e+25]
+yt : [INFO     ] 2014-07-14 15:34:25,907 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-14 15:34:25,910 Allocating for 1.236e+04 particles
+yt : [INFO     ] 2014-07-14 15:34:25,918 Identified 9.930e+02 octs
+yt : [INFO     ] 2014-07-14 15:34:26,091 Loading field plugins.
+yt : [INFO     ] 2014-07-14 15:34:26,091 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-14 15:34:26,092 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-14 15:34:26,092 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-14 15:34:26,094 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-14 15:34:26,095 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-14 15:34:26,095 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-14 15:34:26,096 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-14 15:34:26,096 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-14 15:34:26,096 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-14 15:34:26,096 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-14 15:34:26,258 Loading field plugins.
+yt : [INFO     ] 2014-07-14 15:34:26,258 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-14 15:34:26,258 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-14 15:34:26,258 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-14 15:34:26,259 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-14 15:34:26,259 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-14 15:34:26,260 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-14 15:34:26,260 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-14 15:34:26,260 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-14 15:34:26,260 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-14 15:34:26,260 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-14 15:35:30,404 Saving halo catalog (12365 halos) to halo_catalogs/catalog/ramses/redshift5.06/redshift5.06.
+yt : [WARNING  ] 2014-07-14 15:35:31,007 RAMSES frontend assumes all simulations are cosmological!
+yt : [INFO     ] 2014-07-14 15:35:31,030 Parameters: current_time              = -7.23219918594e+16
+yt : [INFO     ] 2014-07-14 15:35:31,030 Parameters: domain_dimensions         = [128 128 128]
+yt : [INFO     ] 2014-07-14 15:35:31,031 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-14 15:35:31,032 Parameters: domain_right_edge         = [ 1.  1.  1.]
+yt : [INFO     ] 2014-07-14 15:35:31,032 Parameters: cosmological_simulation   = 1
+yt : [INFO     ] 2014-07-14 15:35:31,032 Parameters: current_redshift          = 3.99970231321
+yt : [INFO     ] 2014-07-14 15:35:31,032 Parameters: omega_lambda              = 0.721000015736
+yt : [INFO     ] 2014-07-14 15:35:31,032 Parameters: omega_matter              = 0.279000014067
+yt : [INFO     ] 2014-07-14 15:35:31,033 Parameters: hubble_constant           = 0.7
+yt : [INFO     ] 2014-07-14 15:40:08,052 Loading field plugins.
+yt : [INFO     ] 2014-07-14 15:40:08,053 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-14 15:40:08,054 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-14 15:40:08,054 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-14 15:40:08,054 Loaded fluid (54 new fields)
+yt : [INFO     ] 2014-07-14 15:40:08,055 Loaded fluid_vector (86 new fields)
+yt : [INFO     ] 2014-07-14 15:40:08,055 Loaded geometric (101 new fields)
+yt : [INFO     ] 2014-07-14 15:40:08,055 Loaded halo_analysis (102 new fields)
+yt : [INFO     ] 2014-07-14 15:40:08,056 Loaded local (102 new fields)
+yt : [INFO     ] 2014-07-14 15:40:08,056 Loaded magnetic_field (108 new fields)
+yt : [INFO     ] 2014-07-14 15:40:08,056 Loaded species (108 new fields)
+yt : [WARNING  ] 2014-07-14 15:40:08,649 No particle_type, no creation_time, so not distinguishing.
+yt : [INFO     ] 2014-07-14 15:40:25,534 Initializing HOP
+yt : [WARNING  ] 2014-07-14 15:40:25,534 No particle_type, no creation_time, so not distinguishing.
+Calling hop... 64703493 1.600e+02
+nSmooth = 65 kd->nActive = 64703493
+Your catalog has been created athalo_catalogs/catalog/ramses/redshift5.06
+redshift catalog 5.06 completed
+Copying arrays for 64703493 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 182419
+yt : [INFO     ] 2014-07-14 16:02:24,580 Parsing outputs
+yt : [INFO     ] 2014-07-14 17:06:52,040 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-14 17:06:52,041 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-14 17:06:52,042 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-14 17:06:52,043 Parameters: domain_right_edge         = [  2.20013106e+25   2.20013106e+25   2.20013106e+25]
+yt : [INFO     ] 2014-07-14 17:06:52,044 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-14 17:06:52,047 Allocating for 1.337e+04 particles
+yt : [INFO     ] 2014-07-14 17:06:52,057 Identified 1.145e+03 octs
+yt : [INFO     ] 2014-07-14 17:06:52,239 Loading field plugins.
+yt : [INFO     ] 2014-07-14 17:06:52,239 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-14 17:06:52,240 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-14 17:06:52,240 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-14 17:06:52,240 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-14 17:06:52,241 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-14 17:06:52,242 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-14 17:06:52,242 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-14 17:06:52,243 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-14 17:06:52,243 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-14 17:06:52,243 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-14 17:06:52,407 Loading field plugins.
+yt : [INFO     ] 2014-07-14 17:06:52,407 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-14 17:06:52,407 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-14 17:06:52,407 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-14 17:06:52,408 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-14 17:06:52,408 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-14 17:06:52,409 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-14 17:06:52,409 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-14 17:06:52,409 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-14 17:06:52,409 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-14 17:06:52,410 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-14 17:08:02,132 Saving halo catalog (13367 halos) to halo_catalogs/catalog/ramses/redshift4.0/redshift4.0.
+yt : [WARNING  ] 2014-07-14 17:08:02,339 RAMSES frontend assumes all simulations are cosmological!
+yt : [INFO     ] 2014-07-14 17:08:02,360 Parameters: current_time              = -8.87753362578e+16
+yt : [INFO     ] 2014-07-14 17:08:02,360 Parameters: domain_dimensions         = [128 128 128]
+yt : [INFO     ] 2014-07-14 17:08:02,360 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-14 17:08:02,361 Parameters: domain_right_edge         = [ 1.  1.  1.]
+yt : [INFO     ] 2014-07-14 17:08:02,361 Parameters: cosmological_simulation   = 1
+yt : [INFO     ] 2014-07-14 17:08:02,361 Parameters: current_redshift          = 2.99957204841
+yt : [INFO     ] 2014-07-14 17:08:02,361 Parameters: omega_lambda              = 0.721000015736
+yt : [INFO     ] 2014-07-14 17:08:02,361 Parameters: omega_matter              = 0.279000014067
+yt : [INFO     ] 2014-07-14 17:08:02,362 Parameters: hubble_constant           = 0.7
+yt : [INFO     ] 2014-07-14 17:11:38,437 Loading field plugins.
+yt : [INFO     ] 2014-07-14 17:11:38,438 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-14 17:11:38,438 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-14 17:11:38,438 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-14 17:11:38,439 Loaded fluid (54 new fields)
+yt : [INFO     ] 2014-07-14 17:11:38,440 Loaded fluid_vector (86 new fields)
+yt : [INFO     ] 2014-07-14 17:11:38,440 Loaded geometric (101 new fields)
+yt : [INFO     ] 2014-07-14 17:11:38,440 Loaded halo_analysis (102 new fields)
+yt : [INFO     ] 2014-07-14 17:11:38,440 Loaded local (102 new fields)
+yt : [INFO     ] 2014-07-14 17:11:38,440 Loaded magnetic_field (108 new fields)
+yt : [INFO     ] 2014-07-14 17:11:38,441 Loaded species (108 new fields)
+yt : [WARNING  ] 2014-07-14 17:11:39,035 No particle_type, no creation_time, so not distinguishing.
+yt : [INFO     ] 2014-07-14 17:11:52,149 Initializing HOP
+yt : [WARNING  ] 2014-07-14 17:11:52,150 No particle_type, no creation_time, so not distinguishing.
+Calling hop... 66052825 1.600e+02
+nSmooth = 65 kd->nActive = 66052825
+Your catalog has been created athalo_catalogs/catalog/ramses/redshift4.0
+redshift catalog 4.0 completed
+Copying arrays for 66052825 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 208439
+yt : [INFO     ] 2014-07-14 17:34:07,256 Parsing outputs
+yt : [INFO     ] 2014-07-14 18:49:41,595 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-14 18:49:41,595 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-14 18:49:41,596 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-14 18:49:41,596 Parameters: domain_right_edge         = [  2.75029433e+25   2.75029433e+25   2.75029433e+25]
+yt : [INFO     ] 2014-07-14 18:49:41,597 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-14 18:49:41,599 Allocating for 1.371e+04 particles
+yt : [INFO     ] 2014-07-14 18:49:41,605 Identified 1.217e+03 octs
+yt : [INFO     ] 2014-07-14 18:49:41,734 Loading field plugins.
+yt : [INFO     ] 2014-07-14 18:49:41,734 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-14 18:49:41,734 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-14 18:49:41,734 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-14 18:49:41,735 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-14 18:49:41,736 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-14 18:49:41,736 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-14 18:49:41,736 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-14 18:49:41,736 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-14 18:49:41,736 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-14 18:49:41,737 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-14 18:49:41,901 Loading field plugins.
+yt : [INFO     ] 2014-07-14 18:49:41,901 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-14 18:49:41,902 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-14 18:49:41,902 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-14 18:49:41,903 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-14 18:49:41,903 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-14 18:49:41,904 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-14 18:49:41,904 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-14 18:49:41,904 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-14 18:49:41,904 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-14 18:49:41,904 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-14 18:50:54,312 Saving halo catalog (13708 halos) to halo_catalogs/catalog/ramses/redshift3.55/redshift3.55.
+yt : [WARNING  ] 2014-07-14 18:50:54,440 No particle_type, no creation_time, so not distinguishing.
+yt : [INFO     ] 2014-07-14 18:51:06,911 Initializing HOP
+yt : [WARNING  ] 2014-07-14 18:51:06,912 No particle_type, no creation_time, so not distinguishing.
+Calling hop... 66052825 1.600e+02
+nSmooth = 65 kd->nActive = 66052825
+Your catalog has been created athalo_catalogs/catalog/ramses/redshift3.55
+redshift catalog 3.55 completed
+Copying arrays for 66052825 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 208439
+yt : [INFO     ] 2014-07-14 19:13:54,998 Parsing outputs
+yt : [INFO     ] 2014-07-14 20:29:42,417 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-14 20:29:42,418 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-14 20:29:42,418 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-14 20:29:42,419 Parameters: domain_right_edge         = [  2.75029433e+25   2.75029433e+25   2.75029433e+25]
+yt : [INFO     ] 2014-07-14 20:29:42,419 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-14 20:29:42,420 Allocating for 1.371e+04 particles
+yt : [INFO     ] 2014-07-14 20:29:42,425 Identified 1.217e+03 octs
+yt : [INFO     ] 2014-07-14 20:29:42,544 Loading field plugins.
+yt : [INFO     ] 2014-07-14 20:29:42,544 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-14 20:29:42,544 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-14 20:29:42,545 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-14 20:29:42,545 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-14 20:29:42,546 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-14 20:29:42,546 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-14 20:29:42,546 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-14 20:29:42,546 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-14 20:29:42,546 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-14 20:29:42,547 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-14 20:29:42,709 Loading field plugins.
+yt : [INFO     ] 2014-07-14 20:29:42,710 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-14 20:29:42,710 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-14 20:29:42,711 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-14 20:29:42,711 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-14 20:29:42,712 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-14 20:29:42,712 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-14 20:29:42,712 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-14 20:29:42,712 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-14 20:29:42,713 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-14 20:29:42,713 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-14 20:30:55,045 Saving halo catalog (13708 halos) to halo_catalogs/catalog/ramses/redshift3.0/redshift3.0.
+yt : [WARNING  ] 2014-07-14 20:30:55,800 RAMSES frontend assumes all simulations are cosmological!
+yt : [INFO     ] 2014-07-14 20:30:55,822 Parameters: current_time              = -1.09419077009e+17
+yt : [INFO     ] 2014-07-14 20:30:55,822 Parameters: domain_dimensions         = [128 128 128]
+yt : [INFO     ] 2014-07-14 20:30:55,823 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-14 20:30:55,824 Parameters: domain_right_edge         = [ 1.  1.  1.]
+yt : [INFO     ] 2014-07-14 20:30:55,824 Parameters: cosmological_simulation   = 1
+yt : [INFO     ] 2014-07-14 20:30:55,824 Parameters: current_redshift          = 2.01297738281
+yt : [INFO     ] 2014-07-14 20:30:55,824 Parameters: omega_lambda              = 0.721000015736
+yt : [INFO     ] 2014-07-14 20:30:55,824 Parameters: omega_matter              = 0.279000014067
+yt : [INFO     ] 2014-07-14 20:30:55,824 Parameters: hubble_constant           = 0.7
+yt : [INFO     ] 2014-07-14 20:35:23,927 Loading field plugins.
+yt : [INFO     ] 2014-07-14 20:35:23,928 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-14 20:35:23,928 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-14 20:35:23,928 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-14 20:35:23,929 Loaded fluid (54 new fields)
+yt : [INFO     ] 2014-07-14 20:35:23,929 Loaded fluid_vector (86 new fields)
+yt : [INFO     ] 2014-07-14 20:35:23,930 Loaded geometric (101 new fields)
+yt : [INFO     ] 2014-07-14 20:35:23,930 Loaded halo_analysis (102 new fields)
+yt : [INFO     ] 2014-07-14 20:35:23,930 Loaded local (102 new fields)
+yt : [INFO     ] 2014-07-14 20:35:23,930 Loaded magnetic_field (108 new fields)
+yt : [INFO     ] 2014-07-14 20:35:23,931 Loaded species (108 new fields)
+yt : [WARNING  ] 2014-07-14 20:35:24,521 No particle_type, no creation_time, so not distinguishing.
+yt : [INFO     ] 2014-07-14 20:35:41,911 Initializing HOP
+yt : [WARNING  ] 2014-07-14 20:35:41,912 No particle_type, no creation_time, so not distinguishing.
+Calling hop... 67703318 1.600e+02
+nSmooth = 65 kd->nActive = 67703318
+Your catalog has been created athalo_catalogs/catalog/ramses/redshift3.0
+redshift catalog 3.0 completed
+Copying arrays for 67703318 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 254247
+yt : [INFO     ] 2014-07-14 20:59:05,055 Parsing outputs
+yt : [INFO     ] 2014-07-14 22:25:37,971 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-14 22:25:37,971 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-14 22:25:37,973 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-14 22:25:37,974 Parameters: domain_right_edge         = [  3.65087385e+25   3.65087385e+25   3.65087385e+25]
+yt : [INFO     ] 2014-07-14 22:25:37,974 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-14 22:25:37,978 Allocating for 1.371e+04 particles
+yt : [INFO     ] 2014-07-14 22:25:37,987 Identified 1.185e+03 octs
+yt : [INFO     ] 2014-07-14 22:25:38,161 Loading field plugins.
+yt : [INFO     ] 2014-07-14 22:25:38,162 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-14 22:25:38,162 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-14 22:25:38,162 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-14 22:25:38,162 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-14 22:25:38,163 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-14 22:25:38,163 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-14 22:25:38,163 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-14 22:25:38,164 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-14 22:25:38,164 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-14 22:25:38,164 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-14 22:25:38,353 Loading field plugins.
+yt : [INFO     ] 2014-07-14 22:25:38,353 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-14 22:25:38,354 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-14 22:25:38,354 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-14 22:25:38,355 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-14 22:25:38,355 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-14 22:25:38,355 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-14 22:25:38,356 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-14 22:25:38,356 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-14 22:25:38,356 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-14 22:25:38,356 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-14 22:26:50,194 Saving halo catalog (13708 halos) to halo_catalogs/catalog/ramses/redshift2.64/redshift2.64.
+yt : [WARNING  ] 2014-07-14 22:26:50,319 No particle_type, no creation_time, so not distinguishing.
+yt : [INFO     ] 2014-07-14 22:27:01,452 Initializing HOP
+yt : [WARNING  ] 2014-07-14 22:27:01,452 No particle_type, no creation_time, so not distinguishing.
+Calling hop... 67703318 1.600e+02
+nSmooth = 65 kd->nActive = 67703318
+Your catalog has been created athalo_catalogs/catalog/ramses/redshift2.64
+redshift catalog 2.64 completed
+Copying arrays for 67703318 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 254247
+yt : [INFO     ] 2014-07-14 22:50:18,390 Parsing outputs
+yt : [INFO     ] 2014-07-15 00:16:12,051 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-15 00:16:12,052 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-15 00:16:12,053 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-15 00:16:12,054 Parameters: domain_right_edge         = [  3.65087385e+25   3.65087385e+25   3.65087385e+25]
+yt : [INFO     ] 2014-07-15 00:16:12,055 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-15 00:16:12,057 Allocating for 1.371e+04 particles
+yt : [INFO     ] 2014-07-15 00:16:12,064 Identified 1.185e+03 octs
+yt : [INFO     ] 2014-07-15 00:16:12,224 Loading field plugins.
+yt : [INFO     ] 2014-07-15 00:16:12,225 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-15 00:16:12,225 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-15 00:16:12,225 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-15 00:16:12,225 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-15 00:16:12,226 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-15 00:16:12,226 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-15 00:16:12,227 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-15 00:16:12,227 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-15 00:16:12,227 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-15 00:16:12,227 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-15 00:16:12,391 Loading field plugins.
+yt : [INFO     ] 2014-07-15 00:16:12,392 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-15 00:16:12,392 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-15 00:16:12,393 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-15 00:16:12,393 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-15 00:16:12,394 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-15 00:16:12,394 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-15 00:16:12,394 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-15 00:16:12,394 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-15 00:16:12,394 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-15 00:16:12,395 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-15 00:17:25,101 Saving halo catalog (13708 halos) to halo_catalogs/catalog/ramses/redshift2.01/redshift2.01.
+yt : [WARNING  ] 2014-07-15 00:17:25,289 RAMSES frontend assumes all simulations are cosmological!
+yt : [INFO     ] 2014-07-15 00:17:25,310 Parameters: current_time              = -1.25001028048e+17
+yt : [INFO     ] 2014-07-15 00:17:25,310 Parameters: domain_dimensions         = [128 128 128]
+yt : [INFO     ] 2014-07-15 00:17:25,310 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-15 00:17:25,311 Parameters: domain_right_edge         = [ 1.  1.  1.]
+yt : [INFO     ] 2014-07-15 00:17:25,311 Parameters: cosmological_simulation   = 1
+yt : [INFO     ] 2014-07-15 00:17:25,311 Parameters: current_redshift          = 0.999896734946
+yt : [INFO     ] 2014-07-15 00:17:25,311 Parameters: omega_lambda              = 0.721000015736
+yt : [INFO     ] 2014-07-15 00:17:25,311 Parameters: omega_matter              = 0.279000014067
+yt : [INFO     ] 2014-07-15 00:17:25,312 Parameters: hubble_constant           = 0.7
+yt : [INFO     ] 2014-07-15 00:22:06,101 Loading field plugins.
+yt : [INFO     ] 2014-07-15 00:22:06,101 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-15 00:22:06,102 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-15 00:22:06,102 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-15 00:22:06,102 Loaded fluid (54 new fields)
+yt : [INFO     ] 2014-07-15 00:22:06,103 Loaded fluid_vector (86 new fields)
+yt : [INFO     ] 2014-07-15 00:22:06,103 Loaded geometric (101 new fields)
+yt : [INFO     ] 2014-07-15 00:22:06,103 Loaded halo_analysis (102 new fields)
+yt : [INFO     ] 2014-07-15 00:22:06,104 Loaded local (102 new fields)
+yt : [INFO     ] 2014-07-15 00:22:06,104 Loaded magnetic_field (108 new fields)
+yt : [INFO     ] 2014-07-15 00:22:06,104 Loaded species (108 new fields)
+yt : [WARNING  ] 2014-07-15 00:22:06,699 No particle_type, no creation_time, so not distinguishing.
+yt : [INFO     ] 2014-07-15 00:22:26,618 Initializing HOP
+yt : [WARNING  ] 2014-07-15 00:22:26,619 No particle_type, no creation_time, so not distinguishing.
+Calling hop... 70257546 1.600e+02
+nSmooth = 65 kd->nActive = 70257546
+Your catalog has been created athalo_catalogs/catalog/ramses/redshift2.01
+redshift catalog 2.01 completed
+Copying arrays for 70257546 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 317068
+yt : [INFO     ] 2014-07-15 00:47:40,726 Parsing outputs
+yt : [INFO     ] 2014-07-15 02:27:25,697 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-15 02:27:25,698 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-15 02:27:25,698 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-15 02:27:25,699 Parameters: domain_right_edge         = [  5.50028416e+25   5.50028416e+25   5.50028416e+25]
+yt : [INFO     ] 2014-07-15 02:27:25,699 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-15 02:27:25,701 Allocating for 1.370e+04 particles
+yt : [INFO     ] 2014-07-15 02:27:25,705 Identified 1.273e+03 octs
+yt : [INFO     ] 2014-07-15 02:27:25,831 Loading field plugins.
+yt : [INFO     ] 2014-07-15 02:27:25,831 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-15 02:27:25,831 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-15 02:27:25,832 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-15 02:27:25,832 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-15 02:27:25,833 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-15 02:27:25,833 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-15 02:27:25,833 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-15 02:27:25,833 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-15 02:27:25,834 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-15 02:27:25,834 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-15 02:27:26,000 Loading field plugins.
+yt : [INFO     ] 2014-07-15 02:27:26,000 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-15 02:27:26,001 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-15 02:27:26,001 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-15 02:27:26,001 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-15 02:27:26,002 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-15 02:27:26,002 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-15 02:27:26,002 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-15 02:27:26,003 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-15 02:27:26,003 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-15 02:27:26,003 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-15 02:28:39,002 Saving halo catalog (13704 halos) to halo_catalogs/catalog/ramses/redshift1.5/redshift1.5.
+yt : [WARNING  ] 2014-07-15 02:28:39,304 No particle_type, no creation_time, so not distinguishing.
+yt : [INFO     ] 2014-07-15 02:28:51,549 Initializing HOP
+yt : [WARNING  ] 2014-07-15 02:28:51,549 No particle_type, no creation_time, so not distinguishing.
+Calling hop... 70257546 1.600e+02
+nSmooth = 65 kd->nActive = 70257546
+Your catalog has been created athalo_catalogs/catalog/ramses/redshift1.5
+redshift catalog 1.5 completed
+Copying arrays for 70257546 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 317068
+yt : [INFO     ] 2014-07-15 02:53:39,806 Parsing outputs
+yt : [INFO     ] 2014-07-15 04:33:46,712 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-15 04:33:46,713 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-15 04:33:46,713 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-15 04:33:46,714 Parameters: domain_right_edge         = [  5.50028416e+25   5.50028416e+25   5.50028416e+25]
+yt : [INFO     ] 2014-07-15 04:33:46,714 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-15 04:33:46,717 Allocating for 1.370e+04 particles
+yt : [INFO     ] 2014-07-15 04:33:46,723 Identified 1.273e+03 octs
+yt : [INFO     ] 2014-07-15 04:33:46,857 Loading field plugins.
+yt : [INFO     ] 2014-07-15 04:33:46,858 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-15 04:33:46,858 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-15 04:33:46,858 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-15 04:33:46,858 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-15 04:33:46,859 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-15 04:33:46,859 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-15 04:33:46,860 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-15 04:33:46,860 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-15 04:33:46,860 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-15 04:33:46,860 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-15 04:33:47,024 Loading field plugins.
+yt : [INFO     ] 2014-07-15 04:33:47,025 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-15 04:33:47,025 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-15 04:33:47,026 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-15 04:33:47,026 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-15 04:33:47,027 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-15 04:33:47,027 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-15 04:33:47,027 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-15 04:33:47,027 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-15 04:33:47,027 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-15 04:33:47,028 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-15 04:34:59,701 Saving halo catalog (13704 halos) to halo_catalogs/catalog/ramses/redshift1.0/redshift1.0.
+yt : [WARNING  ] 2014-07-15 04:34:59,861 RAMSES frontend assumes all simulations are cosmological!
+yt : [INFO     ] 2014-07-15 04:34:59,881 Parameters: current_time              = -3.62940155761e+13
+yt : [INFO     ] 2014-07-15 04:34:59,881 Parameters: domain_dimensions         = [128 128 128]
+yt : [INFO     ] 2014-07-15 04:34:59,881 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-15 04:34:59,882 Parameters: domain_right_edge         = [ 1.  1.  1.]
+yt : [INFO     ] 2014-07-15 04:34:59,882 Parameters: cosmological_simulation   = 1
+yt : [INFO     ] 2014-07-15 04:34:59,882 Parameters: current_redshift          = 8.19445951974e-05
+yt : [INFO     ] 2014-07-15 04:34:59,882 Parameters: omega_lambda              = 0.721000015736
+yt : [INFO     ] 2014-07-15 04:34:59,882 Parameters: omega_matter              = 0.279000014067
+yt : [INFO     ] 2014-07-15 04:34:59,882 Parameters: hubble_constant           = 0.7
+yt : [INFO     ] 2014-07-15 04:38:05,240 Loading field plugins.
+yt : [INFO     ] 2014-07-15 04:38:05,241 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-15 04:38:05,241 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-15 04:38:05,241 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-15 04:38:05,242 Loaded fluid (54 new fields)
+yt : [INFO     ] 2014-07-15 04:38:05,242 Loaded fluid_vector (86 new fields)
+yt : [INFO     ] 2014-07-15 04:38:05,243 Loaded geometric (101 new fields)
+yt : [INFO     ] 2014-07-15 04:38:05,243 Loaded halo_analysis (102 new fields)
+yt : [INFO     ] 2014-07-15 04:38:05,243 Loaded local (102 new fields)
+yt : [INFO     ] 2014-07-15 04:38:05,243 Loaded magnetic_field (108 new fields)
+yt : [INFO     ] 2014-07-15 04:38:05,243 Loaded species (108 new fields)
+yt : [WARNING  ] 2014-07-15 04:38:05,840 No particle_type, no creation_time, so not distinguishing.
+yt : [INFO     ] 2014-07-15 04:38:22,174 Initializing HOP
+yt : [WARNING  ] 2014-07-15 04:38:22,175 No particle_type, no creation_time, so not distinguishing.
+Calling hop... 72728289 1.600e+02
+nSmooth = 65 kd->nActive = 72728289
+Your catalog has been created athalo_catalogs/catalog/ramses/redshift1.0
+redshift catalog 1.0 completed
+Copying arrays for 72728289 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 404392
+yt : [INFO     ] 2014-07-15 05:05:13,423 Parsing outputs
+yt : [INFO     ] 2014-07-15 07:04:04,709 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-15 07:04:04,709 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-15 07:04:04,710 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-15 07:04:04,710 Parameters: domain_right_edge         = [  1.09990990e+26   1.09990990e+26   1.09990990e+26]
+yt : [INFO     ] 2014-07-15 07:04:04,711 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-15 07:04:04,713 Allocating for 1.441e+04 particles
+yt : [INFO     ] 2014-07-15 07:04:04,731 Identified 1.697e+03 octs
+yt : [INFO     ] 2014-07-15 07:04:04,923 Loading field plugins.
+yt : [INFO     ] 2014-07-15 07:04:04,924 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-15 07:04:04,924 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-15 07:04:04,924 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-15 07:04:04,924 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-15 07:04:04,925 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-15 07:04:04,925 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-15 07:04:04,925 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-15 07:04:04,926 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-15 07:04:04,926 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-15 07:04:04,926 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-15 07:04:05,122 Loading field plugins.
+yt : [INFO     ] 2014-07-15 07:04:05,122 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-15 07:04:05,122 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-15 07:04:05,122 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-15 07:04:05,123 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-15 07:04:05,124 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-15 07:04:05,124 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-15 07:04:05,124 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-15 07:04:05,124 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-15 07:04:05,124 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-15 07:04:05,124 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-15 07:05:21,190 Saving halo catalog (14410 halos) to halo_catalogs/catalog/ramses/redshift0.5/redshift0.5.
+yt : [WARNING  ] 2014-07-15 07:05:21,382 No particle_type, no creation_time, so not distinguishing.
+yt : [INFO     ] 2014-07-15 07:05:33,224 Initializing HOP
+yt : [WARNING  ] 2014-07-15 07:05:33,225 No particle_type, no creation_time, so not distinguishing.
+Calling hop... 72728289 1.600e+02
+nSmooth = 65 kd->nActive = 72728289
+Your catalog has been created athalo_catalogs/catalog/ramses/redshift0.5
+redshift catalog 0.5 completed
+Copying arrays for 72728289 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 404392
+yt : [INFO     ] 2014-07-15 07:32:16,523 Parsing outputs
+yt : [INFO     ] 2014-07-15 09:30:12,782 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-15 09:30:12,782 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-15 09:30:12,783 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-15 09:30:12,784 Parameters: domain_right_edge         = [  1.09990990e+26   1.09990990e+26   1.09990990e+26]
+yt : [INFO     ] 2014-07-15 09:30:12,784 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-15 09:30:12,787 Allocating for 1.441e+04 particles
+yt : [INFO     ] 2014-07-15 09:30:12,794 Identified 1.697e+03 octs
+yt : [INFO     ] 2014-07-15 09:30:12,939 Loading field plugins.
+yt : [INFO     ] 2014-07-15 09:30:12,939 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-15 09:30:12,940 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-15 09:30:12,940 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-15 09:30:12,940 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-15 09:30:12,941 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-15 09:30:12,941 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-15 09:30:12,942 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-15 09:30:12,942 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-15 09:30:12,942 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-15 09:30:12,942 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-15 09:30:13,105 Loading field plugins.
+yt : [INFO     ] 2014-07-15 09:30:13,106 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-15 09:30:13,106 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-15 09:30:13,106 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-15 09:30:13,107 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-15 09:30:13,107 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-15 09:30:13,107 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-15 09:30:13,108 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-15 09:30:13,108 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-15 09:30:13,108 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-15 09:30:13,108 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-15 09:31:29,834 Saving halo catalog (14410 halos) to halo_catalogs/catalog/ramses/redshift0.0/redshift0.0.
+Your catalog has been created athalo_catalogs/catalog/ramses/redshift0.0
+redshift catalog 0.0 completed
+13 catalog have been made, Bye now.

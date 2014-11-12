@@ -1,0 +1,506 @@
+Enzo output in Nohup:
+yt : [INFO     ] 2014-07-11 11:29:32,212 Parameters: current_time              = 275.041308666
+yt : [INFO     ] 2014-07-11 11:29:32,212 Parameters: domain_dimensions         = [128 128 128]
+yt : [INFO     ] 2014-07-11 11:29:32,212 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-11 11:29:32,213 Parameters: domain_right_edge         = [ 1.  1.  1.]
+yt : [INFO     ] 2014-07-11 11:29:32,214 Parameters: cosmological_simulation   = 1
+yt : [INFO     ] 2014-07-11 11:29:32,214 Parameters: current_redshift          = 0.999998836835
+yt : [INFO     ] 2014-07-11 11:29:32,214 Parameters: omega_lambda              = 0.721
+yt : [INFO     ] 2014-07-11 11:29:32,214 Parameters: omega_matter              = 0.279
+yt : [INFO     ] 2014-07-11 11:29:32,214 Parameters: hubble_constant           = 0.7
+Parsing Hierarchy   0% |                                      | ETA:  --:--:-- Parsing Hierarchy   1% |                                      | ETA:  00:00:02 Parsing Hierarchy   2% |                                      | ETA:  00:00:02 Parsing Hierarchy   3% |\                                     | ETA:  00:00:03 Parsing Hierarchy   4% ||                                     | ETA:  00:00:03 Parsing Hierarchy   5% |/                                     | ETA:  00:00:02 Parsing Hierarchy   6% |--                                    | ETA:  00:00:02 Parsing Hierarchy   7% |\\                                    | ETA:  00:00:02 Parsing Hierarchy   8% ||||                                   | ETA:  00:00:02 Parsing Hierarchy   9% |///                                   | ETA:  00:00:02 Parsing Hierarchy  10% |---                                   | ETA:  00:00:02 Parsing Hierarchy  11% |\\\\                                  | ETA:  00:00:02 Parsing Hierarchy  12% |||||                                  | ETA:  00:00:02 Parsing Hierarchy  13% |////                                  | ETA:  00:00:02 Parsing Hierarchy  14% |-----                                 | ETA:  00:00:02 Parsing Hierarchy  15% |\\\\\                                 | ETA:  00:00:02 Parsing Hierarchy  16% |||||||                                | ETA:  00:00:02 Parsing Hierarchy  17% |//////                                | ETA:  00:00:02 Parsing Hierarchy  18% |------                                | ETA:  00:00:02 Parsing Hierarchy  19% |\\\\\\\                               | ETA:  00:00:01 Parsing Hierarchy  20% ||||||||                               | ETA:  00:00:01 Parsing Hierarchy  21% |///////                               | ETA:  00:00:01 Parsing Hierarchy  22% |--------                              | ETA:  00:00:01 Parsing Hierarchy  23% |\\\\\\\\                              | ETA:  00:00:01 Parsing Hierarchy  24% ||||||||||                             | ETA:  00:00:01 Parsing Hierarchy  25% |/////////                             | ETA:  00:00:01 Parsing Hierarchy  26% |---------                             | ETA:  00:00:01 Parsing Hierarchy  27% |\\\\\\\\\\                            | ETA:  00:00:01 Parsing Hierarchy  28% |||||||||||                            | ETA:  00:00:01 Parsing Hierarchy  29% |///////////                           | ETA:  00:00:01 Parsing Hierarchy  30% |-----------                           | ETA:  00:00:01 Parsing Hierarchy  31% |\\\\\\\\\\\                           | ETA:  00:00:01 Parsing Hierarchy  32% |||||||||||||                          | ETA:  00:00:01 Parsing Hierarchy  33% |////////////                          | ETA:  00:00:01 Parsing Hierarchy  34% |------------                          | ETA:  00:00:01 Parsing Hierarchy  35% |\\\\\\\\\\\\\                         | ETA:  00:00:01 Parsing Hierarchy  36% ||||||||||||||                         | ETA:  00:00:01 Parsing Hierarchy  37% |//////////////                        | ETA:  00:00:01 Parsing Hierarchy  38% |--------------                        | ETA:  00:00:01 Parsing Hierarchy  39% |\\\\\\\\\\\\\\                        | ETA:  00:00:01 Parsing Hierarchy  40% ||||||||||||||||                       | ETA:  00:00:01 Parsing Hierarchy  41% |///////////////                       | ETA:  00:00:01 Parsing Hierarchy  42% |---------------                       | ETA:  00:00:01 Parsing Hierarchy  43% |\\\\\\\\\\\\\\\\                      | ETA:  00:00:01 Parsing Hierarchy  44% |||||||||||||||||                      | ETA:  00:00:01 Parsing Hierarchy  45% |/////////////////                     | ETA:  00:00:01 Parsing Hierarchy  46% |-----------------                     | ETA:  00:00:01 Parsing Hierarchy  47% |\\\\\\\\\\\\\\\\\                     | ETA:  00:00:01 Parsing Hierarchy  48% |||||||||||||||||||                    | ETA:  00:00:01 Parsing Hierarchy  49% |//////////////////                    | ETA:  00:00:01 Parsing Hierarchy  50% |-------------------                   | ETA:  00:00:01 Parsing Hierarchy  51% |\\\\\\\\\\\\\\\\\\\                   | ETA:  00:00:01 Parsing Hierarchy  52% ||||||||||||||||||||                   | ETA:  00:00:01 Parsing Hierarchy  53% |////////////////////                  | ETA:  00:00:01 Parsing Hierarchy  54% |--------------------                  | ETA:  00:00:01 Parsing Hierarchy  55% |\\\\\\\\\\\\\\\\\\\\                  | ETA:  00:00:00 Parsing Hierarchy  56% ||||||||||||||||||||||                 | ETA:  00:00:00 Parsing Hierarchy  57% |/////////////////////                 | ETA:  00:00:00 Parsing Hierarchy  58% |----------------------                | ETA:  00:00:00 Parsing Hierarchy  59% |\\\\\\\\\\\\\\\\\\\\\\                | ETA:  00:00:00 Parsing Hierarchy  60% |||||||||||||||||||||||                | ETA:  00:00:00 Parsing Hierarchy  61% |///////////////////////               | ETA:  00:00:00 Parsing Hierarchy  62% |-----------------------               | ETA:  00:00:00 Parsing Hierarchy  63% |\\\\\\\\\\\\\\\\\\\\\\\               | ETA:  00:00:00 Parsing Hierarchy  64% |||||||||||||||||||||||||              | ETA:  00:00:00 Parsing Hierarchy  65% |////////////////////////              | ETA:  00:00:00 Parsing Hierarchy  66% |-------------------------             | ETA:  00:00:00 Parsing Hierarchy  67% |\\\\\\\\\\\\\\\\\\\\\\\\\             | ETA:  00:00:00 Parsing Hierarchy  68% ||||||||||||||||||||||||||             | ETA:  00:00:00 Parsing Hierarchy  69% |//////////////////////////            | ETA:  00:00:00 Parsing Hierarchy  70% |--------------------------            | ETA:  00:00:00 Parsing Hierarchy  71% |\\\\\\\\\\\\\\\\\\\\\\\\\\            | ETA:  00:00:00 Parsing Hierarchy  72% ||||||||||||||||||||||||||||           | ETA:  00:00:00 Parsing Hierarchy  73% |///////////////////////////           | ETA:  00:00:00 Parsing Hierarchy  74% |----------------------------          | ETA:  00:00:00 Parsing Hierarchy  75% |\\\\\\\\\\\\\\\\\\\\\\\\\\\\          | ETA:  00:00:00 Parsing Hierarchy  76% |||||||||||||||||||||||||||||          | ETA:  00:00:00 Parsing Hierarchy  77% |/////////////////////////////         | ETA:  00:00:00 Parsing Hierarchy  78% |-----------------------------         | ETA:  00:00:00 Parsing Hierarchy  79% |\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\        | ETA:  00:00:00 Parsing Hierarchy  80% |||||||||||||||||||||||||||||||        | ETA:  00:00:00 Parsing Hierarchy  81% |//////////////////////////////        | ETA:  00:00:00 Parsing Hierarchy  82% |-------------------------------       | ETA:  00:00:00 Parsing Hierarchy  83% |\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\       | ETA:  00:00:00 Parsing Hierarchy  84% ||||||||||||||||||||||||||||||||       | ETA:  00:00:00 Parsing Hierarchy  85% |////////////////////////////////      | ETA:  00:00:00 Parsing Hierarchy  86% |--------------------------------      | ETA:  00:00:00 Parsing Hierarchy  87% |\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\     | ETA:  00:00:00 Parsing Hierarchy  88% ||||||||||||||||||||||||||||||||||     | ETA:  00:00:00 Parsing Hierarchy  89% |/////////////////////////////////     | ETA:  00:00:00 Parsing Hierarchy  90% |----------------------------------    | ETA:  00:00:00 Parsing Hierarchy  91% |\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\    | ETA:  00:00:00 Parsing Hierarchy  92% |||||||||||||||||||||||||||||||||||    | ETA:  00:00:00 Parsing Hierarchy  93% |///////////////////////////////////   | ETA:  00:00:00 Parsing Hierarchy  94% |-----------------------------------   | ETA:  00:00:00 Parsing Hierarchy  95% |\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  | ETA:  00:00:00 Parsing Hierarchy  96% |||||||||||||||||||||||||||||||||||||  | ETA:  00:00:00 Parsing Hierarchy  97% |////////////////////////////////////  | ETA:  00:00:00 Parsing Hierarchy  98% |------------------------------------- | ETA:  00:00:00 Parsing Hierarchy  99% |\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ | ETA:  00:00:00 Parsing Hierarchy 100% |||||||||||||||||||||||||||||||||||||||| Time: 00:00:02 
+yt : [INFO     ] 2014-07-11 11:29:37,563 Gathering a field list (this may take a moment.)
+yt : [INFO     ] 2014-07-11 11:29:38,190 Loading field plugins.
+yt : [INFO     ] 2014-07-11 11:29:38,191 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-11 11:29:38,191 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-11 11:29:38,192 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-11 11:29:38,192 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-11 11:29:38,193 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-11 11:29:38,193 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-11 11:29:38,194 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-11 11:29:38,194 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-11 11:29:38,194 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-11 11:29:38,196 Loaded species (137 new fields)
+yt : [INFO     ] 2014-07-11 11:33:06,367 Initializing HOP
+Calling hop... 44247253 1.600e+02
+nSmooth = 65 kd->nActive = 44247253
+[?1034hCopying arrays for 44247253 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 202561
+yt : [INFO     ] 2014-07-11 11:55:38,775 Parsing outputs
+yt : [INFO     ] 2014-07-11 12:53:02,374 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-11 12:53:02,375 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-11 12:53:02,376 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-11 12:53:02,376 Parameters: domain_right_edge         = [  5.51014174e+25   5.51014174e+25   5.51014174e+25]
+yt : [INFO     ] 2014-07-11 12:53:02,377 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-11 12:53:02,378 Allocating for 8.801e+03 particles
+yt : [INFO     ] 2014-07-11 12:53:02,383 Identified 8.650e+02 octs
+yt : [INFO     ] 2014-07-11 12:53:02,530 Loading field plugins.
+yt : [INFO     ] 2014-07-11 12:53:02,530 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-11 12:53:02,531 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-11 12:53:02,531 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-11 12:53:02,531 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-11 12:53:02,532 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-11 12:53:02,532 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-11 12:53:02,532 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-11 12:53:02,532 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-11 12:53:02,533 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-11 12:53:02,533 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-11 12:53:02,697 Loading field plugins.
+yt : [INFO     ] 2014-07-11 12:53:02,697 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-11 12:53:02,697 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-11 12:53:02,697 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-11 12:53:02,698 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-11 12:53:02,699 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-11 12:53:02,699 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-11 12:53:02,699 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-11 12:53:02,700 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-11 12:53:02,700 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-11 12:53:02,700 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-11 12:53:47,694 Saving halo catalog (8801 halos) to halo_catalogs/catalog/enzo/redshift1.0/redshift1.0.
+yt : [INFO     ] 2014-07-11 12:53:47,854 Parameters: current_time              = 636.417235913
+yt : [INFO     ] 2014-07-11 12:53:47,854 Parameters: domain_dimensions         = [128 128 128]
+yt : [INFO     ] 2014-07-11 12:53:47,855 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-11 12:53:47,855 Parameters: domain_right_edge         = [ 1.  1.  1.]
+yt : [INFO     ] 2014-07-11 12:53:47,855 Parameters: cosmological_simulation   = 1
+yt : [INFO     ] 2014-07-11 12:53:47,856 Parameters: current_redshift          = -2.5139174098e-07
+yt : [INFO     ] 2014-07-11 12:53:47,856 Parameters: omega_lambda              = 0.721
+yt : [INFO     ] 2014-07-11 12:53:47,856 Parameters: omega_matter              = 0.279
+yt : [INFO     ] 2014-07-11 12:53:47,856 Parameters: hubble_constant           = 0.7
+Parsing Hierarchy   0% |                                      | ETA:  --:--:-- Parsing Hierarchy   1% |                                      | ETA:  00:00:04 Parsing Hierarchy   2% |                                      | ETA:  00:00:03 Parsing Hierarchy   3% |\                                     | ETA:  00:00:02 Parsing Hierarchy   4% ||                                     | ETA:  00:00:02 Parsing Hierarchy   5% |/                                     | ETA:  00:00:01 Parsing Hierarchy   6% |--                                    | ETA:  00:00:01 Parsing Hierarchy   7% |\\                                    | ETA:  00:00:01 Parsing Hierarchy   8% ||||                                   | ETA:  00:00:01 Parsing Hierarchy   9% |///                                   | ETA:  00:00:01 Parsing Hierarchy  10% |---                                   | ETA:  00:00:01 Parsing Hierarchy  11% |\\\\                                  | ETA:  00:00:01 Parsing Hierarchy  12% |||||                                  | ETA:  00:00:01 Parsing Hierarchy  13% |////                                  | ETA:  00:00:01 Parsing Hierarchy  14% |-----                                 | ETA:  00:00:08 Parsing Hierarchy  15% |\\\\\                                 | ETA:  00:00:08 Parsing Hierarchy  16% |||||||                                | ETA:  00:00:07 Parsing Hierarchy  17% |//////                                | ETA:  00:00:07 Parsing Hierarchy  18% |------                                | ETA:  00:00:06 Parsing Hierarchy  19% |\\\\\\\                               | ETA:  00:00:06 Parsing Hierarchy  20% ||||||||                               | ETA:  00:00:06 Parsing Hierarchy  21% |///////                               | ETA:  00:00:05 Parsing Hierarchy  22% |--------                              | ETA:  00:00:05 Parsing Hierarchy  23% |\\\\\\\\                              | ETA:  00:00:05 Parsing Hierarchy  24% ||||||||||                             | ETA:  00:00:04 Parsing Hierarchy  25% |/////////                             | ETA:  00:00:04 Parsing Hierarchy  26% |---------                             | ETA:  00:00:04 Parsing Hierarchy  27% |\\\\\\\\\\                            | ETA:  00:00:04 Parsing Hierarchy  28% |||||||||||                            | ETA:  00:00:04 Parsing Hierarchy  29% |///////////                           | ETA:  00:00:03 Parsing Hierarchy  30% |-----------                           | ETA:  00:00:03 Parsing Hierarchy  31% |\\\\\\\\\\\                           | ETA:  00:00:03 Parsing Hierarchy  32% |||||||||||||                          | ETA:  00:00:03 Parsing Hierarchy  33% |////////////                          | ETA:  00:00:03 Parsing Hierarchy  34% |------------                          | ETA:  00:00:03 Parsing Hierarchy  35% |\\\\\\\\\\\\\                         | ETA:  00:00:03 Parsing Hierarchy  36% ||||||||||||||                         | ETA:  00:00:03 Parsing Hierarchy  37% |//////////////                        | ETA:  00:00:02 Parsing Hierarchy  38% |--------------                        | ETA:  00:00:02 Parsing Hierarchy  39% |\\\\\\\\\\\\\\                        | ETA:  00:00:02 Parsing Hierarchy  40% ||||||||||||||||                       | ETA:  00:00:02 Parsing Hierarchy  41% |///////////////                       | ETA:  00:00:02 Parsing Hierarchy  42% |---------------                       | ETA:  00:00:02 Parsing Hierarchy  43% |\\\\\\\\\\\\\\\\                      | ETA:  00:00:02 Parsing Hierarchy  44% |||||||||||||||||                      | ETA:  00:00:02 Parsing Hierarchy  45% |/////////////////                     | ETA:  00:00:02 Parsing Hierarchy  46% |-----------------                     | ETA:  00:00:02 Parsing Hierarchy  47% |\\\\\\\\\\\\\\\\\                     | ETA:  00:00:02 Parsing Hierarchy  48% |||||||||||||||||||                    | ETA:  00:00:02 Parsing Hierarchy  49% |//////////////////                    | ETA:  00:00:01 Parsing Hierarchy  50% |-------------------                   | ETA:  00:00:01 Parsing Hierarchy  51% |\\\\\\\\\\\\\\\\\\\                   | ETA:  00:00:01 Parsing Hierarchy  52% ||||||||||||||||||||                   | ETA:  00:00:01 Parsing Hierarchy  53% |////////////////////                  | ETA:  00:00:01 Parsing Hierarchy  54% |--------------------                  | ETA:  00:00:01 Parsing Hierarchy  55% |\\\\\\\\\\\\\\\\\\\\                  | ETA:  00:00:01 Parsing Hierarchy  56% ||||||||||||||||||||||                 | ETA:  00:00:01 Parsing Hierarchy  57% |/////////////////////                 | ETA:  00:00:01 Parsing Hierarchy  58% |----------------------                | ETA:  00:00:01 Parsing Hierarchy  59% |\\\\\\\\\\\\\\\\\\\\\\                | ETA:  00:00:01 Parsing Hierarchy  60% |||||||||||||||||||||||                | ETA:  00:00:01 Parsing Hierarchy  61% |///////////////////////               | ETA:  00:00:01 Parsing Hierarchy  62% |-----------------------               | ETA:  00:00:01 Parsing Hierarchy  63% |\\\\\\\\\\\\\\\\\\\\\\\               | ETA:  00:00:01 Parsing Hierarchy  64% |||||||||||||||||||||||||              | ETA:  00:00:01 Parsing Hierarchy  65% |////////////////////////              | ETA:  00:00:01 Parsing Hierarchy  66% |-------------------------             | ETA:  00:00:01 Parsing Hierarchy  67% |\\\\\\\\\\\\\\\\\\\\\\\\\             | ETA:  00:00:01 Parsing Hierarchy  68% ||||||||||||||||||||||||||             | ETA:  00:00:01 Parsing Hierarchy  69% |//////////////////////////            | ETA:  00:00:00 Parsing Hierarchy  70% |--------------------------            | ETA:  00:00:00 Parsing Hierarchy  71% |\\\\\\\\\\\\\\\\\\\\\\\\\\            | ETA:  00:00:00 Parsing Hierarchy  72% ||||||||||||||||||||||||||||           | ETA:  00:00:00 Parsing Hierarchy  73% |///////////////////////////           | ETA:  00:00:00 Parsing Hierarchy  74% |----------------------------          | ETA:  00:00:00 Parsing Hierarchy  75% |\\\\\\\\\\\\\\\\\\\\\\\\\\\\          | ETA:  00:00:00 Parsing Hierarchy  76% |||||||||||||||||||||||||||||          | ETA:  00:00:00 Parsing Hierarchy  77% |/////////////////////////////         | ETA:  00:00:00 Parsing Hierarchy  78% |-----------------------------         | ETA:  00:00:00 Parsing Hierarchy  79% |\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\        | ETA:  00:00:00 Parsing Hierarchy  80% |||||||||||||||||||||||||||||||        | ETA:  00:00:00 Parsing Hierarchy  81% |//////////////////////////////        | ETA:  00:00:00 Parsing Hierarchy  82% |-------------------------------       | ETA:  00:00:00 Parsing Hierarchy  83% |\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\       | ETA:  00:00:00 Parsing Hierarchy  84% ||||||||||||||||||||||||||||||||       | ETA:  00:00:00 Parsing Hierarchy  85% |////////////////////////////////      | ETA:  00:00:00 Parsing Hierarchy  86% |--------------------------------      | ETA:  00:00:00 Parsing Hierarchy  87% |\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\     | ETA:  00:00:00 Parsing Hierarchy  88% ||||||||||||||||||||||||||||||||||     | ETA:  00:00:00 Parsing Hierarchy  89% |/////////////////////////////////     | ETA:  00:00:00 Parsing Hierarchy  90% |----------------------------------    | ETA:  00:00:00 Parsing Hierarchy  91% |\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\    | ETA:  00:00:00 Parsing Hierarchy  92% |||||||||||||||||||||||||||||||||||    | ETA:  00:00:00 Parsing Hierarchy  93% |///////////////////////////////////   | ETA:  00:00:00 Parsing Hierarchy  94% |-----------------------------------   | ETA:  00:00:00 Parsing Hierarchy  95% |\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  | ETA:  00:00:00 Parsing Hierarchy  96% |||||||||||||||||||||||||||||||||||||  | ETA:  00:00:00 Parsing Hierarchy  97% |////////////////////////////////////  | ETA:  00:00:00 Parsing Hierarchy  98% |------------------------------------- | ETA:  00:00:00 Parsing Hierarchy  99% |\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ | ETA:  00:00:00 Parsing Hierarchy 100% |||||||||||||||||||||||||||||||||||||||| Time: 00:00:02 
+yt : [INFO     ] 2014-07-11 12:53:52,974 Gathering a field list (this may take a moment.)
+yt : [INFO     ] 2014-07-11 12:53:55,018 Loading field plugins.
+yt : [INFO     ] 2014-07-11 12:53:55,018 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-11 12:53:55,019 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-11 12:53:55,020 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-11 12:53:55,020 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-11 12:53:55,021 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-11 12:53:55,022 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-11 12:53:55,022 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-11 12:53:55,022 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-11 12:53:55,023 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-11 12:53:55,024 Loaded species (137 new fields)
+yt : [INFO     ] 2014-07-11 12:59:17,038 Initializing HOP
+Calling hop... 44247253 1.600e+02
+nSmooth = 65 kd->nActive = 44247253
+Your catalog has been created athalo_catalogs/catalog/enzo/redshift1.0
+redshift catalog 1.0 completed
+Copying arrays for 44247253 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 239570
+yt : [INFO     ] 2014-07-11 13:19:59,797 Parsing outputs
+yt : [INFO     ] 2014-07-11 14:22:27,630 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-11 14:22:27,630 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-11 14:22:27,631 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-11 14:22:27,632 Parameters: domain_right_edge         = [  1.10202798e+26   1.10202798e+26   1.10202798e+26]
+yt : [INFO     ] 2014-07-11 14:22:27,632 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-11 14:22:27,634 Allocating for 8.594e+03 particles
+yt : [INFO     ] 2014-07-11 14:22:27,638 Identified 8.970e+02 octs
+yt : [INFO     ] 2014-07-11 14:22:27,772 Loading field plugins.
+yt : [INFO     ] 2014-07-11 14:22:27,772 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-11 14:22:27,773 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-11 14:22:27,773 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-11 14:22:27,773 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-11 14:22:27,774 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-11 14:22:27,774 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-11 14:22:27,774 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-11 14:22:27,774 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-11 14:22:27,774 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-11 14:22:27,775 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-11 14:22:27,938 Loading field plugins.
+yt : [INFO     ] 2014-07-11 14:22:27,939 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-11 14:22:27,939 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-11 14:22:27,939 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-11 14:22:27,940 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-11 14:22:27,940 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-11 14:22:27,940 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-11 14:22:27,941 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-11 14:22:27,941 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-11 14:22:27,941 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-11 14:22:27,941 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-11 14:23:12,440 Saving halo catalog (8594 halos) to halo_catalogs/catalog/enzo/redshift0.75/redshift0.75.
+yt : [INFO     ] 2014-07-11 14:25:09,919 Initializing HOP
+Calling hop... 44247253 1.600e+02
+nSmooth = 65 kd->nActive = 44247253
+Your catalog has been created athalo_catalogs/catalog/enzo/redshift0.75
+redshift catalog 0.75 completed
+Copying arrays for 44247253 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 239570
+yt : [INFO     ] 2014-07-11 14:45:46,026 Parsing outputs
+yt : [INFO     ] 2014-07-11 15:47:58,044 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-11 15:47:58,044 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-11 15:47:58,045 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-11 15:47:58,046 Parameters: domain_right_edge         = [  1.10202798e+26   1.10202798e+26   1.10202798e+26]
+yt : [INFO     ] 2014-07-11 15:47:58,047 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-11 15:47:58,050 Allocating for 8.594e+03 particles
+yt : [INFO     ] 2014-07-11 15:47:58,058 Identified 8.970e+02 octs
+yt : [INFO     ] 2014-07-11 15:47:58,245 Loading field plugins.
+yt : [INFO     ] 2014-07-11 15:47:58,245 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-11 15:47:58,245 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-11 15:47:58,245 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-11 15:47:58,246 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-11 15:47:58,247 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-11 15:47:58,247 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-11 15:47:58,247 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-11 15:47:58,247 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-11 15:47:58,247 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-11 15:47:58,248 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-11 15:47:58,410 Loading field plugins.
+yt : [INFO     ] 2014-07-11 15:47:58,410 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-11 15:47:58,411 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-11 15:47:58,411 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-11 15:47:58,411 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-11 15:47:58,412 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-11 15:47:58,412 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-11 15:47:58,412 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-11 15:47:58,412 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-11 15:47:58,413 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-11 15:47:58,413 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-11 15:48:42,796 Saving halo catalog (8594 halos) to halo_catalogs/catalog/enzo/redshift0.5/redshift0.5.
+yt : [INFO     ] 2014-07-11 15:51:40,861 Initializing HOP
+Calling hop... 44247253 1.600e+02
+nSmooth = 65 kd->nActive = 44247253
+Your catalog has been created athalo_catalogs/catalog/enzo/redshift0.5
+redshift catalog 0.5 completed
+Copying arrays for 44247253 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 239570
+yt : [INFO     ] 2014-07-11 16:12:19,262 Parsing outputs
+yt : [INFO     ] 2014-07-11 17:14:26,086 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-11 17:14:26,087 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-11 17:14:26,088 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-11 17:14:26,089 Parameters: domain_right_edge         = [  1.10202798e+26   1.10202798e+26   1.10202798e+26]
+yt : [INFO     ] 2014-07-11 17:14:26,090 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-11 17:14:26,093 Allocating for 8.594e+03 particles
+yt : [INFO     ] 2014-07-11 17:14:26,100 Identified 8.970e+02 octs
+yt : [INFO     ] 2014-07-11 17:14:26,265 Loading field plugins.
+yt : [INFO     ] 2014-07-11 17:14:26,265 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-11 17:14:26,265 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-11 17:14:26,266 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-11 17:14:26,266 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-11 17:14:26,267 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-11 17:14:26,267 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-11 17:14:26,267 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-11 17:14:26,267 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-11 17:14:26,268 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-11 17:14:26,268 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-11 17:14:26,431 Loading field plugins.
+yt : [INFO     ] 2014-07-11 17:14:26,431 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-11 17:14:26,432 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-11 17:14:26,432 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-11 17:14:26,432 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-11 17:14:26,433 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-11 17:14:26,433 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-11 17:14:26,433 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-11 17:14:26,434 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-11 17:14:26,434 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-11 17:14:26,434 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-11 17:15:11,536 Saving halo catalog (8594 halos) to halo_catalogs/catalog/enzo/redshift0.4/redshift0.4.
+yt : [INFO     ] 2014-07-11 17:17:09,505 Initializing HOP
+Calling hop... 44247253 1.600e+02
+nSmooth = 65 kd->nActive = 44247253
+Your catalog has been created athalo_catalogs/catalog/enzo/redshift0.4
+redshift catalog 0.4 completed
+Copying arrays for 44247253 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 239570
+yt : [INFO     ] 2014-07-11 17:37:48,293 Parsing outputs
+yt : [INFO     ] 2014-07-11 18:39:51,180 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-11 18:39:51,181 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-11 18:39:51,181 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-11 18:39:51,182 Parameters: domain_right_edge         = [  1.10202798e+26   1.10202798e+26   1.10202798e+26]
+yt : [INFO     ] 2014-07-11 18:39:51,182 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-11 18:39:51,183 Allocating for 8.594e+03 particles
+yt : [INFO     ] 2014-07-11 18:39:51,187 Identified 8.970e+02 octs
+yt : [INFO     ] 2014-07-11 18:39:51,312 Loading field plugins.
+yt : [INFO     ] 2014-07-11 18:39:51,312 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-11 18:39:51,312 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-11 18:39:51,312 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-11 18:39:51,313 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-11 18:39:51,314 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-11 18:39:51,314 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-11 18:39:51,314 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-11 18:39:51,314 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-11 18:39:51,314 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-11 18:39:51,315 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-11 18:39:51,478 Loading field plugins.
+yt : [INFO     ] 2014-07-11 18:39:51,479 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-11 18:39:51,479 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-11 18:39:51,479 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-11 18:39:51,480 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-11 18:39:51,480 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-11 18:39:51,480 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-11 18:39:51,481 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-11 18:39:51,481 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-11 18:39:51,481 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-11 18:39:51,481 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-11 18:40:35,982 Saving halo catalog (8594 halos) to halo_catalogs/catalog/enzo/redshift0.3/redshift0.3.
+yt : [INFO     ] 2014-07-11 18:42:34,175 Initializing HOP
+Calling hop... 44247253 1.600e+02
+nSmooth = 65 kd->nActive = 44247253
+Your catalog has been created athalo_catalogs/catalog/enzo/redshift0.3
+redshift catalog 0.3 completed
+Copying arrays for 44247253 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 239570
+yt : [INFO     ] 2014-07-11 19:03:11,221 Parsing outputs
+yt : [INFO     ] 2014-07-11 20:05:27,906 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-11 20:05:27,907 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-11 20:05:27,907 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-11 20:05:27,908 Parameters: domain_right_edge         = [  1.10202798e+26   1.10202798e+26   1.10202798e+26]
+yt : [INFO     ] 2014-07-11 20:05:27,908 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-11 20:05:27,909 Allocating for 8.594e+03 particles
+yt : [INFO     ] 2014-07-11 20:05:27,913 Identified 8.970e+02 octs
+yt : [INFO     ] 2014-07-11 20:05:28,036 Loading field plugins.
+yt : [INFO     ] 2014-07-11 20:05:28,036 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-11 20:05:28,036 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-11 20:05:28,037 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-11 20:05:28,037 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-11 20:05:28,038 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-11 20:05:28,038 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-11 20:05:28,038 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-11 20:05:28,038 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-11 20:05:28,039 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-11 20:05:28,039 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-11 20:05:28,202 Loading field plugins.
+yt : [INFO     ] 2014-07-11 20:05:28,202 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-11 20:05:28,202 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-11 20:05:28,202 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-11 20:05:28,203 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-11 20:05:28,203 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-11 20:05:28,204 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-11 20:05:28,204 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-11 20:05:28,204 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-11 20:05:28,204 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-11 20:05:28,204 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-11 20:06:12,794 Saving halo catalog (8594 halos) to halo_catalogs/catalog/enzo/redshift0.25/redshift0.25.
+yt : [INFO     ] 2014-07-11 20:08:10,009 Initializing HOP
+Calling hop... 44247253 1.600e+02
+nSmooth = 65 kd->nActive = 44247253
+Your catalog has been created athalo_catalogs/catalog/enzo/redshift0.25
+redshift catalog 0.25 completed
+Copying arrays for 44247253 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 239570
+yt : [INFO     ] 2014-07-11 20:28:46,592 Parsing outputs
+yt : [INFO     ] 2014-07-11 21:30:45,020 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-11 21:30:45,021 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-11 21:30:45,022 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-11 21:30:45,023 Parameters: domain_right_edge         = [  1.10202798e+26   1.10202798e+26   1.10202798e+26]
+yt : [INFO     ] 2014-07-11 21:30:45,024 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-11 21:30:45,027 Allocating for 8.594e+03 particles
+yt : [INFO     ] 2014-07-11 21:30:45,033 Identified 8.970e+02 octs
+yt : [INFO     ] 2014-07-11 21:30:45,205 Loading field plugins.
+yt : [INFO     ] 2014-07-11 21:30:45,205 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-11 21:30:45,206 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-11 21:30:45,206 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-11 21:30:45,206 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-11 21:30:45,207 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-11 21:30:45,207 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-11 21:30:45,207 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-11 21:30:45,207 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-11 21:30:45,208 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-11 21:30:45,208 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-11 21:30:45,372 Loading field plugins.
+yt : [INFO     ] 2014-07-11 21:30:45,373 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-11 21:30:45,373 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-11 21:30:45,373 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-11 21:30:45,374 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-11 21:30:45,374 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-11 21:30:45,374 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-11 21:30:45,375 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-11 21:30:45,375 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-11 21:30:45,375 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-11 21:30:45,375 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-11 21:31:30,204 Saving halo catalog (8594 halos) to halo_catalogs/catalog/enzo/redshift0.2/redshift0.2.
+yt : [INFO     ] 2014-07-11 21:33:28,283 Initializing HOP
+Calling hop... 44247253 1.600e+02
+nSmooth = 65 kd->nActive = 44247253
+Your catalog has been created athalo_catalogs/catalog/enzo/redshift0.2
+redshift catalog 0.2 completed
+Copying arrays for 44247253 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 239570
+yt : [INFO     ] 2014-07-11 21:54:06,597 Parsing outputs
+yt : [INFO     ] 2014-07-11 22:56:07,340 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-11 22:56:07,341 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-11 22:56:07,341 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-11 22:56:07,341 Parameters: domain_right_edge         = [  1.10202798e+26   1.10202798e+26   1.10202798e+26]
+yt : [INFO     ] 2014-07-11 22:56:07,342 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-11 22:56:07,343 Allocating for 8.594e+03 particles
+yt : [INFO     ] 2014-07-11 22:56:07,346 Identified 8.970e+02 octs
+yt : [INFO     ] 2014-07-11 22:56:07,467 Loading field plugins.
+yt : [INFO     ] 2014-07-11 22:56:07,468 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-11 22:56:07,468 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-11 22:56:07,468 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-11 22:56:07,468 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-11 22:56:07,469 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-11 22:56:07,469 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-11 22:56:07,469 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-11 22:56:07,470 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-11 22:56:07,470 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-11 22:56:07,470 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-11 22:56:07,633 Loading field plugins.
+yt : [INFO     ] 2014-07-11 22:56:07,634 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-11 22:56:07,634 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-11 22:56:07,634 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-11 22:56:07,634 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-11 22:56:07,635 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-11 22:56:07,635 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-11 22:56:07,635 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-11 22:56:07,636 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-11 22:56:07,636 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-11 22:56:07,636 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-11 22:56:52,236 Saving halo catalog (8594 halos) to halo_catalogs/catalog/enzo/redshift0.1/redshift0.1.
+yt : [INFO     ] 2014-07-11 22:58:49,513 Initializing HOP
+Calling hop... 44247253 1.600e+02
+nSmooth = 65 kd->nActive = 44247253
+Your catalog has been created athalo_catalogs/catalog/enzo/redshift0.1
+redshift catalog 0.1 completed
+Copying arrays for 44247253 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 239570
+yt : [INFO     ] 2014-07-11 23:19:26,436 Parsing outputs
+yt : [INFO     ] 2014-07-12 00:21:39,896 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-12 00:21:39,897 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-12 00:21:39,897 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-12 00:21:39,898 Parameters: domain_right_edge         = [  1.10202798e+26   1.10202798e+26   1.10202798e+26]
+yt : [INFO     ] 2014-07-12 00:21:39,898 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-12 00:21:39,899 Allocating for 8.594e+03 particles
+yt : [INFO     ] 2014-07-12 00:21:39,903 Identified 8.970e+02 octs
+yt : [INFO     ] 2014-07-12 00:21:40,023 Loading field plugins.
+yt : [INFO     ] 2014-07-12 00:21:40,023 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-12 00:21:40,023 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-12 00:21:40,023 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-12 00:21:40,024 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-12 00:21:40,024 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-12 00:21:40,025 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-12 00:21:40,025 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-12 00:21:40,025 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-12 00:21:40,025 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-12 00:21:40,025 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-12 00:21:40,189 Loading field plugins.
+yt : [INFO     ] 2014-07-12 00:21:40,189 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-12 00:21:40,189 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-12 00:21:40,189 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-12 00:21:40,190 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-12 00:21:40,190 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-12 00:21:40,191 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-12 00:21:40,191 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-12 00:21:40,191 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-12 00:21:40,191 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-12 00:21:40,191 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-12 00:22:24,545 Saving halo catalog (8594 halos) to halo_catalogs/catalog/enzo/redshift0.05/redshift0.05.
+yt : [INFO     ] 2014-07-12 00:24:21,187 Initializing HOP
+Calling hop... 44247253 1.600e+02
+nSmooth = 65 kd->nActive = 44247253
+Your catalog has been created athalo_catalogs/catalog/enzo/redshift0.05
+redshift catalog 0.05 completed
+Copying arrays for 44247253 particles
+Building Tree...
+Finding Densities...
+Finding Densest Neighbors...
+Grouping...
+Merging Groups...
+Writing Output...
+All Done!Calling regroup...
+No minimum group size specified.  Assuming 10 particles.
+ngroups = 239570
+yt : [INFO     ] 2014-07-12 00:44:56,433 Parsing outputs
+yt : [INFO     ] 2014-07-12 01:47:14,820 Parameters: current_time              = 0.0
+yt : [INFO     ] 2014-07-12 01:47:14,820 Parameters: domain_dimensions         = [2 2 2]
+yt : [INFO     ] 2014-07-12 01:47:14,821 Parameters: domain_left_edge          = [ 0.  0.  0.]
+yt : [INFO     ] 2014-07-12 01:47:14,821 Parameters: domain_right_edge         = [  1.10202798e+26   1.10202798e+26   1.10202798e+26]
+yt : [INFO     ] 2014-07-12 01:47:14,822 Parameters: cosmological_simulation   = 0.0
+yt : [INFO     ] 2014-07-12 01:47:14,823 Allocating for 8.594e+03 particles
+yt : [INFO     ] 2014-07-12 01:47:14,827 Identified 8.970e+02 octs
+yt : [INFO     ] 2014-07-12 01:47:14,948 Loading field plugins.
+yt : [INFO     ] 2014-07-12 01:47:14,948 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-12 01:47:14,948 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-12 01:47:14,948 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-12 01:47:14,949 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-12 01:47:14,949 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-12 01:47:14,950 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-12 01:47:14,950 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-12 01:47:14,950 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-12 01:47:14,950 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-12 01:47:14,950 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-12 01:47:15,113 Loading field plugins.
+yt : [INFO     ] 2014-07-12 01:47:15,114 Loaded angular_momentum (8 new fields)
+yt : [INFO     ] 2014-07-12 01:47:15,114 Loaded astro (14 new fields)
+yt : [INFO     ] 2014-07-12 01:47:15,114 Loaded cosmology (20 new fields)
+yt : [INFO     ] 2014-07-12 01:47:15,115 Loaded fluid (56 new fields)
+yt : [INFO     ] 2014-07-12 01:47:15,115 Loaded fluid_vector (88 new fields)
+yt : [INFO     ] 2014-07-12 01:47:15,115 Loaded geometric (103 new fields)
+yt : [INFO     ] 2014-07-12 01:47:15,116 Loaded halo_analysis (104 new fields)
+yt : [INFO     ] 2014-07-12 01:47:15,116 Loaded local (104 new fields)
+yt : [INFO     ] 2014-07-12 01:47:15,116 Loaded magnetic_field (110 new fields)
+yt : [INFO     ] 2014-07-12 01:47:15,116 Loaded species (110 new fields)
+yt : [INFO     ] 2014-07-12 01:47:59,554 Saving halo catalog (8594 halos) to halo_catalogs/catalog/enzo/redshift0.0/redshift0.0.
+Your catalog has been created athalo_catalogs/catalog/enzo/redshift0.0
+redshift catalog 0.0 completed
+10 catalog have been made, Bye now.
